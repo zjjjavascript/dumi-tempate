@@ -1,8 +1,17 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-07-06 09:48:44
+ * @LastEditTime: 2021-07-06 10:43:23
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /dumi-tempate/README.md
+-->
+
 # 🌟 Dumi Template
 
 A doc template can assist you to develop libraries & write docs.
 
-English | [简体中文](./README.zh-CN.md)
+English | [简体\_中文](./README.zh-CN.md)
 
 ## 🚀 How to use?
 
