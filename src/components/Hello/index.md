@@ -1,18 +1,20 @@
 ---
-nav:
+group:
   title: Components
   path: /components
 ---
 
-## Foo
+## Hello
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi-template';
+import Hello from './index.tsx';
 
-export default () => <Foo title="First Demo" />;
+export default () => <Hello />;
 ```
+
+<API></API>
 
 More skills for writing demo: https://d.umijs.org/guide/demo-principle
